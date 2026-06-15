@@ -581,7 +581,7 @@ Thank you for discussing your project targets. We propose engineering a custom d
             </h1>
 
             <p className="text-slate-300 text-sm sm:text-base md:text-lg max-w-2xl leading-relaxed">
-              I align businesses with high-velocity software tools. Specializing in **MERN Stack (MongoDB, Express.js, React, Node.js)** and **Next.js** bolstered by custom server-side proxy hooks to **Gemini &amp; Grok API** models.
+              I align businesses with high-velocity software tools. Specializing in "MERN Stack (MongoDB, Express.js, React, Node.js) and Next.js bolstered by custom server-side proxy hooks to Gemini &amp; Grok API models.
             </p>
 
             <div className="flex flex-wrap gap-2 pt-2">
